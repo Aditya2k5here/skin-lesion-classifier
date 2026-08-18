@@ -1,0 +1,92 @@
+{
+  "akiec": {
+    "name": "Actinic Keratoses",
+    "description": "A rough, scaly patch on the skin that develops from years of sun exposure. Represents early-stage precancerous skin damage.",
+    "cause": "Accumulated UV exposure from the sun over many years.",
+    "cure": "Treatments include cryotherapy, topical prescription creams, or photodynamic therapy. Close monitoring is recommended."
+  },
+  "bcc": {
+    "name": "Basal Cell Carcinoma",
+    "description": "Cancer that begins in the basal cells. It presents as a pearly or waxy bump and is the most common form of skin cancer.",
+    "cause": "Chronic exposure to ultraviolet (UV) radiation.",
+    "cure": "Surgical excision, topical medications, or localized radiation. Very high cure rate when caught early."
+  },
+  "mel": {
+    "name": "Melanoma",
+    "description": "A serious form of skin cancer that begins in melanocytes. It can develop from an existing mole that changes rapidly.",
+    "cause": "Genetics and intense, intermittent UV exposure.",
+    "cure": "Surgical excision is the primary treatment. Advanced cases require immunotherapy or targeted therapy. Urgent consultation is required."
+  },
+  "acne": {
+    "name": "Acne Vulgaris",
+    "description": "A condition occurring when hair follicles become plugged with oil and dead skin cells. In pigmented skin types, it often leaves post-inflammatory dark spots.",
+    "cause": "Hormones, overproduction of sebum, and bacterial overgrowth.",
+    "cure": "Topical retinoids, salicylic acid, antibiotics, or oral medications. Gentle skincare is vital to prevent scarring."
+  },
+  "melasma": {
+    "name": "Melasma (Chloasma)",
+    "description": "Common in brown or olive skin tones, presenting as symmetrical, irregular dark patches on the face (cheeks, bridge of nose, forehead).",
+    "cause": "Hormonal shifts (e.g., pregnancy), sun exposure, and genetic predisposition.",
+    "cure": "Strict, daily sun protection. Topical treatments involving hydroquinone, azelaic acid, or chemical peels given by dermatologists."
+  },
+  "tinea_versicolor": {
+    "name": "Pityriasis Versicolor",
+    "description": "A fungal infection causing small, discolored patches of skin that can be lighter or darker than the surrounding skin. Common in hot, humid climates like India.",
+    "cause": "Overgrowth of Malassezia, a yeast naturally found on the skin.",
+    "cure": "Topical antifungal creams, lotions, or shampoos containing ketoconazole or selenium sulfide."
+  },
+  "tinea_corporis": {
+    "name": "Ringworm (Tinea Corporis)",
+    "description": "A fungal infection creating a ring-shaped, red, scaly rash with a clear center.",
+    "cause": "Dermatophyte fungus spreading via direct contact with infected people, animals, or soil.",
+    "cure": "Over-the-counter or prescription topical antifungal medications. Keep the area clean and dry."
+  },
+  "vitiligo": {
+    "name": "Vitiligo",
+    "description": "A condition causing the loss of skin pigment, resulting in clear, sharply demarcated white patches.",
+    "cause": "Autoimmune condition where melanocytes are destroyed.",
+    "cure": "Phototherapy, targeted topical corticosteroids or calcineurin inhibitors to manage and sometimes repigment patches."
+  },
+  "pih": {
+    "name": "Post-Inflammatory Hyperpigmentation",
+    "description": "Darkened spots left behind after a skin injury, insect bite, or inflammation (like acne) heals. Very common in melanin-rich skin.",
+    "cause": "Excess melanin production linked to the skin's healing process.",
+    "cure": "Tyrosinase inhibitors (vitamin C, niacinamide, kojic acid), gentle exfoliation, and rigorous sun protection."
+  },
+  "acanthosis_nigricans": {
+    "name": "Acanthosis Nigricans",
+    "description": "Thickened, velvety darkening of the skin, usually in folds and creases (neck, armpits). Often observed in metabolic syndromes.",
+    "cause": "Insulin resistance, obesity, or certain medications.",
+    "cure": "Managing underlying medical conditions (like metabolic syndrome or diabetes). Topical exfoliants can temporarily visually improve the area."
+  },
+  "unknown": {
+    "name": "Unknown / Clear Skin",
+    "description": "The AI could not confidently identify a specific pathological lesion.",
+    "cause": "N/A",
+    "cure": "Maintain a healthy skincare routine and use SPF daily. If symptoms persist, seek professional medical advice."
+  },
+  "nv": {
+    "name": "Melanocytic Nevus (Skin Mole)",
+    "description": "A common, benign skin lesion caused by a local proliferation of melanocytes. It typically presents as a regular, symmetric, and uniformly colored brown spot.",
+    "cause": "Genetics and sun exposure, especially during childhood.",
+    "cure": "Usually harmless and requires no treatment. Excision is recommended only if it exhibits rapid changes in size, shape, color, or causes symptoms."
+  },
+  "bkl": {
+    "name": "Benign Keratosis (e.g. Seborrheic Keratosis)",
+    "description": "A very common, non-cancerous skin growth that often looks waxy, scaly, or slightly raised, resembling a wart or a crusty brown patch.",
+    "cause": "Natural aging, genetics, and cumulative sun exposure over time.",
+    "cure": "Completely benign and requires no medical treatment. Can be removed for cosmetic reasons via cryotherapy, electrosurgery, or curettage."
+  },
+  "df": {
+    "name": "Dermatofibroma",
+    "description": "A common benign fibrous nodule, often found on the lower legs. It usually feels like a firm, hard lump just under the skin surface.",
+    "cause": "Often arises following a minor skin injury or trauma, such as an insect bite, splinter, or thorn puncture.",
+    "cure": "Benign and generally left alone. Complete surgical excision is an option if it becomes painful or cosmetically unacceptable."
+  },
+  "vasc": {
+    "name": "Benign Vascular Lesion",
+    "description": "A harmless condition characterized by dense collections of blood vessels near the skin surface, presenting as red or purple spots (e.g., cherry angiomas).",
+    "cause": "Genetics, natural aging, and localized pooling or overgrowth of capillaries.",
+    "cure": "No treatment is necessary. Can be successfully treated with vascular lasers or electrocautery if cosmetically bothersome or if they bleed easily."
+  }
+}
